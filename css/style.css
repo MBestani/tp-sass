@@ -10,6 +10,9 @@ header {
       list-style: none;
       padding: 1rem;
       color: #2ad608; }
+      header ul li:hover {
+        background-color: black;
+        font-style: italic; }
 
 #index {
   background-color: lightgreen; }
